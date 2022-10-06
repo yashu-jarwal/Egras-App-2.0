@@ -1,0 +1,62 @@
+const images = {
+    // Splash: require('../assets/Images/Splash.png'),
+    AppBackground: require('../assets/Images/AppBG.jpg'),
+    BackIcon: require('../assets/Images/BackIcon.png'),
+    Splash: require('../assets/Images/SplashBG.jpg'),
+    logo: require('../assets/Images/LOGO2.png'),
+    Loader: require('../assets/Images/loading.png'),
+    drawer: require('../assets/Images/Drawer.png'),
+    Home: require('../assets/Images/Home.png'),
+    Editprofile: require('../assets/Images/edit.png'),
+    ChangePassword: require('../assets/Images/Change-password.png'),
+    Contact: require('../assets/Images/phone-call.png'),
+    Signout: require('../assets/Images/log-out.png'),
+    govticon: require('../assets/Images/emblem.png'),
+    CreateProfile: require('../assets/Images/CreateProfile.png'),
+    ProfileList: require('../assets/Images/Profilelist.png'),
+    QuickChallan: require('../assets/Images/QuickChallan.png'),
+    Search: require('../assets/Images/Search.png'),
+    Droparrow: require('../assets/Images/Down-arrow.png'),
+    Uparrow: require('../assets/Images/Up-arrow.png'),
+    calander: require('../assets/Images/calendar.png'),
+    Radio_select: require('../assets/Images/Redio_select.png'),
+    Radio_unselect: require('../assets/Images/Redio_unselect.png'),
+    Paytm: require('../assets/Images/paytm.png'),
+    Googlepay: require('../assets/Images/google-pay.png'),
+    Rightarrow: require('../assets/Images/right-arrow.png'),
+    refersh: require('../assets/Images/refresh.png'),
+    Close: require("../assets/Images/close.png"),
+    success: require("../assets/Images/check-mark.png"),
+    Download: require('../assets/Images/download_pdf.png'),
+    Share: require('../assets/Images/share.png'),
+    Pending: require('../assets/Images/pending.png'),
+    Fail: require('../assets/Images/failed.png'),
+
+    //Bank image list
+    Sbi: require('../assets/BankImages/SBI.png'),
+    Test: require('../assets/BankImages/test.png'),
+    Bob: require('../assets/BankImages/BOB.png'),
+    Boi: require('../assets/BankImages/boi.png'),
+    Icici: require('../assets/BankImages/icici_bank.png'),
+    Canara: require('../assets/BankImages/Canra.png'),
+    Cbi: require('../assets/BankImages/CBI.png'),
+    Ubi: require('../assets/BankImages/Union1.png'),
+    Pnb: require('../assets/BankImages/PNB.png'),
+    Pnb_Gatway: require('../assets/BankImages/PNB.png'),
+    Corporation: require('../assets/BankImages/cop_bank.png'),
+    Obc: require('../assets/BankImages/OBC.png'),
+    SbiePay: require('../assets/BankImages/SBI.png'),
+    Idbi: require('../assets/BankImages/IDBI.png'),
+    Axis: require('../assets/BankImages/Axis.png'),
+    Hdfc: require('../assets/BankImages/HDFC.png'), 
+    Iob: require('../assets/BankImages/IOB.png'), 
+    Kotak: require('../assets/BankImages/Kotak.png'), 
+    Ov: require('../assets/BankImages/ov.png'), 
+
+
+
+
+
+
+}
+export default images
